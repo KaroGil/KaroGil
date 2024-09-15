@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I´m a masters student at the Software Engineering joint masters program by the University of Bergen (UiB) and Western Norway University of Applied Sciences (HVL).
 <!--
 **KaroGil/KaroGil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
